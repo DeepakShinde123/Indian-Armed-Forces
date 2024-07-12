@@ -113,7 +113,7 @@
   .c h2 {
     position: relative;
     top: 5%;
-    left: 15%;
+    left: 5%;
     font-size: 20px;
     color: white;
     text-shadow:  5px 5px 9px #110404,
@@ -122,7 +122,7 @@
   
   .c pre {
     position: relative;
-    left: 10%;
+    left: 5%;
     top: 10%;
     font-size: 17px;
     color: white;
